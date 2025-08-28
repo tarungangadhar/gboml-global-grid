@@ -48,7 +48,7 @@ The work demonstrates how optimization enables:
 
 ## Links
 - [📄 Project Report (PDF)](docs/GBOML.pdf)  
-- [🌐 Simulation Website(Two Grids)](https://tarungangadhar.github.io/gboml-global-grid/)  
+- [🌐 Simulation Website(Two Grids)](https://twomicrogrid.netlify.app/)  
 
 ---
 
