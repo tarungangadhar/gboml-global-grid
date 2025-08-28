@@ -47,7 +47,7 @@ The work demonstrates how optimization enables:
 ---
 
 ## Links
-- [📄 Project Report (PDF)](docs/GBOML_Final_Report.pdf)  
+- [📄 Project Report (PDF)](docs/GBOML.pdf)  
 - [🌐 Simulation Website(Two Grids)](https://tarungangadhar.github.io/gboml-global-grid/)  
 
 ---
