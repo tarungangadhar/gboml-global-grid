@@ -22,7 +22,6 @@ The work demonstrates how optimization enables:
 - **Microgrid Modeling**: solar, battery, demand, distribution nodes.  
 - **Global Grid Simulation**: interconnection of multiple microgrids.  
 - **Python Parser for GBOML Models**.  
-- **Web-based Simulator** for visualization and interaction.  
 
 ---
 
@@ -49,8 +48,7 @@ The work demonstrates how optimization enables:
 
 ## Links
 - [📄 Project Report (PDF)](docs/GBOML_Final_Report.pdf)  
-- [💻 Code](code/)  
-- [🌐 Project Website](https://tarungangadhar.github.io/gboml-global-grid/)  
+- [🌐 Simulation Website(Two Grids)](https://tarungangadhar.github.io/gboml-global-grid/)  
 
 ---
 
