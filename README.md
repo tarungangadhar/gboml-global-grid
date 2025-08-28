@@ -17,7 +17,7 @@ The work demonstrates how optimization enables:
 
 ---
 
-## ⚡ Features
+## Features
 - **Implemented multiple optimization algorithms** (LP, NLP, MILP, MINLP, GA, SA, CMA-ES).  
 - **Microgrid Modeling**: solar, battery, demand, distribution nodes.  
 - **Global Grid Simulation**: interconnection of multiple microgrids.  
